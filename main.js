@@ -1,4 +1,4 @@
-ar intervalId;
+var intervalId;
 
 function find() {
   var a = document.getElementsByClassName('public_submit');
